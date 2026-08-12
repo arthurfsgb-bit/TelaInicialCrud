@@ -115,13 +115,9 @@ Dessa forma, determinadas áreas do sistema podem ser acessadas somente após o 
 
 # 📦 Pacotes Utilizados
 
-O projeto utiliza pacotes do ecossistema ASP.NET Core e Entity Framework, como:
+O projeto utiliza o seguinte pacote:
 
-* Microsoft.AspNetCore.Identity.EntityFrameworkCore
-* Microsoft.EntityFrameworkCore
-* Microsoft.EntityFrameworkCore.SqlServer
-* Microsoft.EntityFrameworkCore.Tools
-* Microsoft.EntityFrameworkCore.Design
+
 * Microsoft.VisualStudio.Web.CodeGeneration.Design
 
 ---
