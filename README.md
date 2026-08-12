@@ -27,7 +27,6 @@ Aplicação desenvolvida em **ASP.NET Core MVC** utilizando **C#**, **Entity Fra
 * [🛠 Tecnologias Utilizadas](#-tecnologias-utilizadas)
 * [📦 Pacotes Utilizados](#-pacotes-utilizados)
 * [🗄 Banco de Dados](#-banco-de-dados)
-* [📷 Telas do Sistema](#-telas-do-sistema)
 * [▶️ Como Executar](#️-como-executar)
 * [📁 Estrutura do Projeto](#-estrutura-do-projeto)
 * [🎯 Objetivos de Aprendizagem](#-objetivos-de-aprendizagem)
@@ -155,64 +154,12 @@ Update-Database
 
 ---
 
-# 📷 Telas do Sistema
-
-## 🔐 Tela de Login
-
-<div align="center">
-
-![Tela de Login](imagens/login.png)
-
-</div>
-
----
-
-## 📝 Cadastro de Usuário
-
-<div align="center">
-
-![Cadastro de Usuário](imagens/cadastro-usuario.png)
-
-</div>
-
----
-
-## 📋 Listagem de Projetos
-
-<div align="center">
-
-![Lista de Projetos](imagens/projetos-index.png)
-
-</div>
-
----
-
-## ➕ Cadastro de Projeto
-
-<div align="center">
-
-![Cadastro de Projeto](imagens/projeto-create.png)
-
-</div>
-
----
-
-## ✏️ Edição de Projeto
-
-<div align="center">
-
-![Edição de Projeto](imagens/projeto-edit.png)
-
-</div>
-
----
-
 # ▶️ Como Executar
 
 ## 1. Clone o projeto
 
 ```bash
-git clone https://github.com/arthurfsgb-bit/GerenciadorDeProjetos.git
+git clone https://github.com/arthurfsgb-bit/TelaInicialCrud.git
 ```
 
 ---
